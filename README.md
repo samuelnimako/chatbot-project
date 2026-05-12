@@ -1,7 +1,7 @@
-# React + Vite
 
 
-🤖 Simple Chatbot App
+
+**#🤖 Simple Chatbot App**
 
 A basic chatbot built with React.js that can perform simple interactive tasks like getting today’s date, flipping a coin, and rolling a dice.
 
@@ -10,8 +10,8 @@ A basic chatbot built with React.js that can perform simple interactive tasks li
 
 
 <p align="center">
-  <img src="images/screen1.png" width="50%" />
-  <img src="images/screen2.png" width="50%" />
+  <img src="images/Screenshot 2026-05-12 004321.png" width="50%" />
+  <img src="images/Screenshot 2026-05-12 004330.png" width="50%" />
 </p>
 
 
