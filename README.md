@@ -5,6 +5,18 @@
 
 A basic chatbot built with React.js that can perform simple interactive tasks like getting today’s date, flipping a coin, and rolling a dice.
 
+
+📸 Screenshots
+
+
+<p align="center">
+  <img src="images/screen1.png" width="50%" />
+  <img src="images/screen2.png" width="50%" />
+</p>
+
+
+
+
 🚀 Features
 	•	📅 Get today’s date
 	•	🪙 Flip a coin (Heads or Tails)
