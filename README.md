@@ -11,6 +11,10 @@ A basic chatbot built with React.js that can perform simple interactive tasks li
 
 <p align="center">
   <img src="images/Screenshot 2026-05-12 004321.png" width="50%" />
+
+<br />
+<br />
+	
   <img src="images/Screenshot 2026-05-12 004330.png" width="50%" />
 </p>
 
